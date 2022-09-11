@@ -1,0 +1,19 @@
+Instrukcja wykonania zadania
+
+W zadaniu, które za chwilę wykonasz, na ekranie pojawiać się będą zestawy trójek liter złożone z
+dwóch liter: „H”, „K”, „S” lub „C”. Twoim zadaniem będzie wskazanie centralnej litery znajdującej
+
+się na środku ekranu, ignorując przy tym litery otaczające centralną literę.
+
+Wskazanie centralnej litery będzie polegało na naciśnięciu strzałki na klawiaturze,
+
+odpowiadającej centralnej literze:
+klawisz strzałki w lewo dla liter H lub K
+klawisz strzałki w prawo dla liter S lub C
+
+Postaraj się odpowiadać poprawnie i jak najszybciej, gdyż mierzony będzie czas Twojej reakcji.
+Zanim rozpocznie się sesja eksperymentalna, zostaniesz poddany sesji treningowej, która ułatwi
+
+Ci zrozumienie zadania.
+
+Aby przejść dalej naciśnij spację
